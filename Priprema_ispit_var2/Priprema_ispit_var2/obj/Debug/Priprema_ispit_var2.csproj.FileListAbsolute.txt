@@ -1,0 +1,8 @@
+C:\Users\piero\Documents\School\NiOP\Priprema_ispit_var2\Priprema_ispit_var2\bin\Debug\Priprema_ispit_var2.exe.config
+C:\Users\piero\Documents\School\NiOP\Priprema_ispit_var2\Priprema_ispit_var2\bin\Debug\Priprema_ispit_var2.exe
+C:\Users\piero\Documents\School\NiOP\Priprema_ispit_var2\Priprema_ispit_var2\bin\Debug\Priprema_ispit_var2.pdb
+C:\Users\piero\Documents\School\NiOP\Priprema_ispit_var2\Priprema_ispit_var2\obj\Debug\Priprema_ispit_var2.csproj.AssemblyReference.cache
+C:\Users\piero\Documents\School\NiOP\Priprema_ispit_var2\Priprema_ispit_var2\obj\Debug\Priprema_ispit_var2.csproj.SuggestedBindingRedirects.cache
+C:\Users\piero\Documents\School\NiOP\Priprema_ispit_var2\Priprema_ispit_var2\obj\Debug\Priprema_ispit_var2.csproj.CoreCompileInputs.cache
+C:\Users\piero\Documents\School\NiOP\Priprema_ispit_var2\Priprema_ispit_var2\obj\Debug\Priprema_ispit_var2.exe
+C:\Users\piero\Documents\School\NiOP\Priprema_ispit_var2\Priprema_ispit_var2\obj\Debug\Priprema_ispit_var2.pdb
